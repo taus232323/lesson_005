@@ -9,5 +9,3 @@ from room_2 import folks as room2_folks
 print('В комнате room_1 живут: ', room1_folks)
 print('В комнате room_2 живут: ', room2_folks)
 
-
-
